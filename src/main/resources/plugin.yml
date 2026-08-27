@@ -2,7 +2,7 @@ name: ChatItems
 version: 1.0.0
 main: cz.example.chatitems.ChatItemsPlugin
 api-version: '1.21'
-author: TvojeJmeno
+author: Failxos
 description: Napiš [i]/[item] nebo [inv]/[inventory] v chatu - pošle se klikací zpráva, po kliknutí se otevře GUI s itemem/inventářem uprostřed.
 
 commands:
